@@ -22,7 +22,7 @@ const RESOURCES = {
 "assets/assets/imgs/bbb.jpeg": "4cc46ff3f7e8248c52e4dbd5b2b98dc5",
 "assets/assets/imgs/BG01.png": "292fe68441561eae14b077f8f112acf9",
 "assets/assets/imgs/flutter.png": "0b5a2f8d3f4d173805affaf9f84f6c87",
-"assets/assets/imgs/IMG_20210617_133809.jpg": "7486cadf709878ede813e6db64172907",
+"assets/assets/imgs/Arun_prof.jpeg": "7486cadf709878ede813e6db64172907",
 "assets/assets/imgs/ttt.jpeg": "4427bbe117c2a802b1549a96ef349ae5",
 "assets/assets/imgs/wa.png": "0c5ec8e6627939b33dfb1a05be10c1e0",
 "assets/FontManifest.json": "663783f541c46e7f04c244ce710d1b61",
